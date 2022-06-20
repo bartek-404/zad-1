@@ -1,4 +1,4 @@
-# cloud
+
 Zadanie 1 - Bartosz Michałowski
 ###
 Instrukcja uruchomienia:
